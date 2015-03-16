@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity" >
+    <item android:id="@+id/action_clear"
+        android:title="@string/action_clear" />
+    <item android:id="@+id/file"
+        android:title="@string/action_big_cities" >
+
+        <menu>
+            <item android:id="@+id/action_big_city_poznan"
+                android:title="@string/action_big_city_poznan" />
+            <item android:id="@+id/action_big_city_warszawa"
+                android:title="@string/action_big_city_warszawa" />
+            <item android:id="@+id/action_big_city_bydgoszcz"
+                android:title="@string/action_big_city_bydgoszcz" />
+            <item android:id="@+id/action_big_city_gdansk"
+                android:title="@string/action_big_city_gdansk" />
+            <item android:id="@+id/action_big_city_gdynia"
+                android:title="@string/action_big_city_gdynia" />
+            <item android:id="@+id/action_big_city_lublin"
+                android:title="@string/action_big_city_lublin" />
+            <item android:id="@+id/action_big_city_katowice"
+                android:title="@string/action_big_city_katowice" />
+            <item android:id="@+id/action_big_city_szczecin"
+                android:title="@string/action_big_city_szczecin" />
+            <item android:id="@+id/action_big_city_jelenia_gora"
+                android:title="@string/action_big_city_jelenia_gora" />
+        </menu>
+
+    </item>
+
+    <item android:id="@+id/action_country"
+        android:title="@string/action_country" />
+    <item android:id="@+id/action_gps"
+        android:title="@string/action_gps" />
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings" />
+</menu>

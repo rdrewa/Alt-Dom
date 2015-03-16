@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Mapa" >
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="prefScaleActivity"
+            android:summary="Ciekawe... czy dobrze liczy?"
+            android:title="Skala" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="prefZoomActivity"
+            android:summary="Aby można było testować na emulatorze..."
+            android:title="Zoom" />
+    </PreferenceCategory>
+</PreferenceScreen>

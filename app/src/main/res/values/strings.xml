@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alt-Dom</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_clear">Wyczyść</string>
+    <string name="action_big_cities">Duże miasta</string>
+    <string name="action_big_city_poznan">Poznań</string>
+    <string name="action_big_city_warszawa">Warszawa</string>
+    <string name="action_big_city_gdansk">Gdańsk</string>
+    <string name="action_big_city_gdynia">Gdynia</string>
+    <string name="action_big_city_jelenia_gora">Jelenia Góra</string>
+    <string name="action_big_city_bydgoszcz">Bydgoszcz</string>
+    <string name="action_big_city_katowice">Katowice</string>
+    <string name="action_big_city_lublin">Lublin</string>
+    <string name="action_big_city_szczecin">Szczecin</string>
+    <string name="action_big_city_torun">Toruń</string>
+    <string name="action_provinces">Województwa</string>
+    <string name="action_country">Kraj</string>
+    <string name="action_gps">GPS</string>
+    <string name="action_settings">Ustawienia</string>
+
+    <string-array name="val_ObjectName">
+        <item>mieszkanie</item>
+        <item>dom</item>
+        <item>działka</item>
+        <item>pokój</item>
+        <item>lokal użytkowy</item>
+        <item>hala/magazyn</item>
+        <item>garaż</item>
+    </string-array>
+    <string-array name="val_OfferType">
+        <item>na sprzedaż</item>
+        <item>na wynajem</item>
+    </string-array>
+
+    <string name="lab_ObjectName">Typ</string>
+    <string name="lab_OfferType">Rodzaj</string>
+    <string name="lab_Price">Cena</string>
+    <string name="lab_Area">Powierzchnia</string>
+    <string name="lab_FlatDetails">Szczegóły mieszkania</string>
+    <string name="lab_BuildingType">Rodzaj zabudowy</string>
+    <string name="lab_BuildingMaterial">Materiał budynku</string>
+    <string name="lab_BuildingOnwership">Forma własności</string>
+    <string name="lab_BuildingFloorsNum">Ilość pięter</string>
+    <string name="lab_ConstructionStatus">Stan wykończenia</string>
+    <string name="lab_FloorNo">Pietro</string>
+    <string name="lab_RoomsNum">Ilość pokoi</string>
+    <string name="lab_BuildYear">Rok budowy</string>
+    <string name="lab_ExtrasMask">Dodatkowe informacje</string>
+    <string name="lab_Heating">Ogrzewanie</string>
+    <string name="lab_FreeFrom">Wolny od</string>
+    <string name="lab_Furnished">Umeblowane</string>
+    <string name="lab_WindowsType">Okna</string>
+    <string name="lab_SecurityMask">Zabezpieczenia</string>
+    <string name="lab_PriceIncludeRent">Cena zawiera wynajem</string>
+    <string name="lab_RentToStudents">Dla studentów</string>
+    <string name="lab_SellWithOtodom">Uczestniczy w programie: Sprzedaj z otoDom</string>
+    <string name="lab_Individual">Ogłoszenie indywidualne</string>
+    <string name="lab_Fence">Ogrodzenie</string>
+    <string name="lab_Parking">Parking</string>
+    <string name="lab_OfficeSpace">Przestrzeń biurowa</string>
+    <string name="lab_SocialFacilities">Udogodnienia</string>
+
+    <string name="title_activity_detail">Szczegóły ogłoszenia</string>
+
+</resources>
